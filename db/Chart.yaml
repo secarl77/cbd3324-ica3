@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: 1.0.0
+version: 1.0.0
+name: app-db
+description: postgresql database for app stack
+keywords:
+    - postgres
+maintainers:
+    - name: Carlos Serrano
+
